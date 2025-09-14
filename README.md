@@ -30,7 +30,6 @@ This repository contains a reproducible implementation for **Assessment 2: MMM M
    python -m venv venv
    source venv/bin/activate       # on Mac/Linux
    venv\Scripts\activate          # on Windows
-
 3.Install dependencies:
 
 pip install -r requirements.txt
